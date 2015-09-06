@@ -238,3 +238,9 @@
             transform: rotate(0deg);
   }
 }
+.gear-large-message {
+  font-size: 72px;
+  font-weight: bold;
+  color: black;
+  margin-bottom: 20px;
+}
