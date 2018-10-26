@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200"
+   height="80"
+   viewBox="0 0 52.916662 21.166667"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="logo.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="C:\Users\Henry\Dropbox\gear\logo.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="-18.119247"
+     inkscape:cy="60.271761"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-275.83331)">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:4.85500002;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect819"
+       width="18.144182"
+       height="17.871338"
+       x="13.616684"
+       y="280.74945"
+       ry="4.0926752" />
+    <g
+       aria-label="Gear"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text817">
+      <path
+         d="m 15.309021,288.19639 q -0.01929,3.27973 -1.9389,5.21863 -1.919607,1.9389 -5.1896921,1.9389 -3.9356772,0 -6.2314889,-2.68166 -1.76526696,-2.0643 -1.76526696,-4.7749 0,-2.02572 1.01285806,-3.7524 1.0128581,-1.73633 2.7781251,-2.7106 1.765267,-0.98392 3.9935548,-0.98392 3.61735,0 6.501584,2.73954 l -1.099674,1.04179 q -2.411567,-2.37298 -5.3536786,-2.37298 -1.6688043,0 -3.1543296,0.81029 -1.5337565,0.81993 -2.3633355,2.22829 -0.829579,1.40835 -0.829579,2.97105 0,1.65916 0.8778103,3.0868 0.8778104,1.418 2.3536893,2.21864 1.514464,0.82958 3.3183161,0.82958 2.112533,0 3.626997,-1.16719 1.581987,-1.21543 1.871376,-3.27009 h -4.5241 v -1.36977 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.75555611px;line-height:1;font-family:'Levenim MT';-inkscape-font-specification:'Levenim MT';letter-spacing:0px;stroke-width:0.26458332"
+         id="path819" />
+      <path
+         d="m 28.12891,289.85555 h -9.43405 q 0.03859,1.76527 1.099675,2.94211 1.118967,1.23472 2.855295,1.23472 1.678451,0 2.845649,-1.0225 0.530545,-0.46302 1.147906,-1.49517 l 1.138259,0.59807 q -1.061089,2.07394 -2.942111,2.79741 -0.916396,0.35691 -2.073948,0.35691 -2.363335,0 -3.916384,-1.56269 -1.543403,-1.5627 -1.543403,-3.92603 0,-1.99678 1.225076,-3.55947 1.553049,-1.98714 4.157541,-1.98714 2.681662,0 4.282943,2.03537 1.138259,1.44694 1.157552,3.58841 z m -1.485525,-1.1672 q -0.501606,-1.99678 -2.151118,-2.76848 -0.848871,-0.3955 -1.784559,-0.3955 -1.543403,0 -2.652724,0.99357 -0.810286,0.72347 -1.225076,2.17041 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.75555611px;line-height:1;font-family:'Levenim MT';-inkscape-font-specification:'Levenim MT';letter-spacing:0px;fill:#ffffff;fill-opacity:1"
+         id="path821" />
+      <path
+         d="m 41.112787,294.99701 h -1.331185 v -1.80385 q -1.707389,2.07394 -4.215419,2.07394 -2.276519,0 -3.839214,-1.63986 -1.543403,-1.61093 -1.543403,-3.90674 0,-2.26687 1.572341,-3.8778 1.581988,-1.61093 3.848861,-1.61093 2.594846,0 4.176834,2.19935 v -1.92925 h 1.331185 z m -1.244368,-5.18969 q 0,-1.80385 -1.186491,-3.03858 -1.176845,-1.23472 -2.971051,-1.23472 -2.411567,0 -3.598058,2.11253 -0.569129,1.00322 -0.569129,2.12218 0,1.11897 0.569129,2.13183 0.56913,1.00321 1.524111,1.57234 0.964626,0.55948 2.064301,0.55948 1.109321,0 2.102886,-0.55948 0.993566,-0.55948 1.524111,-1.51447 0.540191,-0.95498 0.540191,-2.15111 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.75555611px;line-height:1;font-family:'Levenim MT';-inkscape-font-specification:'Levenim MT';letter-spacing:0px;stroke-width:0.26458332"
+         id="path823" />
+      <path
+         d="m 48.9552,284.58869 -0.704177,1.13826 q -0.424436,-0.18328 -0.713824,-0.18328 -1.620573,0 -2.257227,2.27652 -0.250803,0.8971 -0.250803,3.62699 v 3.54983 h -1.379416 v -10.49514 h 1.379416 v 1.53376 q 1.225076,-1.80386 2.729894,-1.80386 0.559483,0 1.196137,0.35692 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.75555611px;line-height:1;font-family:'Levenim MT';-inkscape-font-specification:'Levenim MT';letter-spacing:0px;stroke-width:0.26458332"
+         id="path825" />
+    </g>
+  </g>
+</svg>
