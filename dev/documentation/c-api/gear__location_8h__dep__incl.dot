@@ -1,0 +1,18 @@
+digraph "gear_location.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="gear_location.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="gear_common.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$gear__common_8h.html",tooltip="API definitions common to both the runtime and compiler. "];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="gear.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$gear_8h.html",tooltip="Includes both the gear_runtime.h and gear_compiler.h headers. "];
+  Node2 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="gear_compiler.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$gear__compiler_8h.html",tooltip="Interface definitions for the compiler. "];
+  Node2 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="gear_diagnostic.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$gear__diagnostic_8h.html",tooltip="Diagnostic Gear API definitions. "];
+  Node5 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="gear_tokenizer.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$gear__tokenizer_8h_source.html"];
+}

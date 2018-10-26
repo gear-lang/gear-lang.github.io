@@ -1,0 +1,17 @@
+digraph "Runtime"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir=LR;
+  Node5 [label="Object Manipulation",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group__object__api.html"];
+  Node0 [label="Runtime",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 [label="Value Creation",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group__value__creation__api.html"];
+  Node1 [label="Variable Queries and\l Manipulation",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group__variable__api.html"];
+  Node4 [label="Dictionary Manipulation",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group__dictionary__api.html"];
+  Node3 [label="List Manipulation",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group__list__api.html"];
+  Node0->Node1 [shape=plaintext, dir="back", style="solid"];
+  Node0->Node2 [shape=plaintext, dir="back", style="solid"];
+  Node0->Node3 [shape=plaintext, dir="back", style="solid"];
+  Node0->Node4 [shape=plaintext, dir="back", style="solid"];
+  Node0->Node5 [shape=plaintext, dir="back", style="solid"];
+}
