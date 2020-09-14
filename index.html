@@ -1,22 +1,105 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Gear Programming Language</title>
-<link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
-<link rel="stylesheet" type="text/css" href="/css/style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Gear Programming Language</title>
+    <style rel="stylesheet" type="text/css">
+    html,
+    body {
+        font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 14px;
+        line-height: 1.42857143;
+        color: #333;
+        padding: 0;
+        margin: 0 auto 0 auto;
+        width: 960px;
+    }
+    a {
+        color: #337ab7;
+        text-decoration: none;
+    }
+    p {
+        font-size: 14px;
+        margin: 0 0 10px;
+    }
+    a:focus, a:hover {
+        color: #23527c;
+        text-decoration: underline;
+    }
+    .page-centered {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+    .gear-message {
+        font-size: 36px;
+        font-weight: bold;
+        color: black;
+        margin-bottom: 20px;
+    }
+    .gear-center {
+        text-align: center;
+    }
+    .gear-container {
+        position: relative;
+        height: 200px;
+        width: 320px;
+        right: -24%;
+    }
+    .gear1 {
+        position: absolute;
+    }
+    .gear2 {
+        position: absolute;
+        left: 62px;
+        top: 42px;
+    }
+    .spinner-cw {
+        animation-name: spin-cw;
+        animation-duration: 4000ms;
+        animation-iteration-count: infinite;
+        animation-timing-function: linear;
+    }
+    @keyframes spin-cw {
+        from {
+            transform: rotate(0deg);
+        }
+        to {
+            transform: rotate(360deg);
+        }
+    }
+    .spinner-ccw {
+        animation-name: spin-ccw;
+        animation-duration: 4000ms;
+        animation-iteration-count: infinite;
+        animation-timing-function: linear;
+    }
+    @keyframes spin-ccw {
+        from {
+            transform: rotate(360deg);
+        }
+        to {
+            transform: rotate(0deg);
+        }
+    }
+    .gear-large-message {
+        font-size: 72px;
+        font-weight: bold;
+        color: black;
+        margin-bottom: 20px;
+    }
+    </style>
 </head>
 <body>
-  <div class="page-centered">
-    <h1 class="gear-message text-center">Under Construction</h1>
-    <div class="gear-container">
-      <img class="spinner-cw gear1" src="/images/gear.svg" width="100" height="100"></img>
-      <img class="spinner-ccw gear2" src="/images/gear.svg" width="100" height="100"></img>
+    <div class="page-centered">
+        <h1 class="gear-message gear-center">Under Construction</h1>
+        <div class="gear-container">
+            <img class="spinner-cw gear1" src="/gear.svg" width="100" height="100"></img>
+            <img class="spinner-ccw gear2" src="/gear.svg" width="100" height="100"></img>
+        </div>
+        <p class="gear-center">In the meantime, visit the <a href="https://github.com/gear-lang">Github page</a>.</p>
     </div>
-    <p class="text-center">In the meantime, visit the <a href="https://github.com/gear-lang">Github page</a>.</p>
-  </div>
-  <script src="/js/jquery.min.js"></script>
-  <script src="/js/bootstrap.min.js"></script>
 </body>
 </html>
